@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hugo on Samuel Kindylides</title>
-    <link>/tags/hugo/</link>
-    <description>Recent content in hugo on Samuel Kindylides</description>
+    <title>Astrophysics on Samuel Kindylides</title>
+    <link>/tags/astrophysics/</link>
+    <description>Recent content in Astrophysics on Samuel Kindylides</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Samuel Kindylides (license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/astrophysics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>First blog post : Test</title>
-      <link>/post/getting-started/</link>
+      <title>New post test</title>
+      <link>/post/new-post-test/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/post/getting-started/</guid>
+      <guid>/post/new-post-test/</guid>
       <description>Actually testing the different modification types. Testing Markdown</description>
     </item>
     

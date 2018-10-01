@@ -44,6 +44,16 @@ Figure 1: Un superbe graphique en camembert.
     </item>
     
     <item>
+      <title>New project test</title>
+      <link>/project/new-project-test/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/new-project-test/</guid>
+      <description>&lt;p&gt;Here is where i should write about my new project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
       <link>/talk/example-talk/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0100</pubDate>
@@ -54,18 +64,30 @@ Figure 1: Un superbe graphique en camembert.
     </item>
     
     <item>
-      <title>Mon premier blog</title>
+      <title>First blog post : Test</title>
       <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/post/getting-started/</guid>
       <description>
 
-&lt;p&gt;Le contenu ici&lt;/p&gt;
+&lt;h2 id=&#34;actually-testing-the-different-modification-types&#34;&gt;Actually testing the different modification types.&lt;/h2&gt;
 
-&lt;h2 id=&#34;un-titre&#34;&gt;Un titre&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Testing Markdown&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New post test</title>
+      <link>/post/new-post-test/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/post/new-post-test/</guid>
+      <description>
 
-&lt;p&gt;Du texte &lt;strong&gt;avec une partie en gras&lt;/strong&gt;...&lt;/p&gt;
+&lt;h2 id=&#34;actually-testing-the-different-modification-types&#34;&gt;Actually testing the different modification types.&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Testing Markdown&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
