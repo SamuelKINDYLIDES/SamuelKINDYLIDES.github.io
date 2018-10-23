@@ -11,6 +11,22 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>New project test : Poison dart frog</title>
+      <link>/project/new-project-test/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/new-project-test/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;General description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Poison dart frog is the name commonly given to a group of frogs belonging to the family &lt;strong&gt;Dendrobatidae&lt;/strong&gt;. They are mostly found in tropical rainforests like in Central and South America but many of them are threatened due to human activity and deforestation. They only measure up to a couple of centimeters in length.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;Dendrobatidae&lt;/strong&gt; family is composed of two sub-families, being the Colostethinae sub-family and the Dendrobatinae sub-family. Dendrobatinae frogs, on the one hand, are brightly colored and their colourful patterns are directly linked to their toxicity, making them aposematic. Aposematism is a characteristic used to warn potential predators of an animal&#39;s toxicity. On the other hand, Colostethinae frogs are cryptically colored, meaning they have a coloration that grants them a sort of camouflage. These frogs are therefore not toxic.&lt;/p&gt;
+
+&lt;p&gt;The poison dart frog gets its name from Amerindian culture where the frog&#39;s toxic secretions were used to coat the tip of blowdarts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Test de R Markdown</title>
       <link>/post/2018-09-24-r-rmarkdown/</link>
       <pubDate>Mon, 24 Sep 2018 18:36:00 -0100</pubDate>
@@ -44,16 +60,6 @@ Figure 1: Un superbe graphique en camembert.
     </item>
     
     <item>
-      <title>New project test</title>
-      <link>/project/new-project-test/</link>
-      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/new-project-test/</guid>
-      <description>&lt;p&gt;Here is where i should write about my new project.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Example Talk</title>
       <link>/talk/example-talk/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0100</pubDate>
@@ -78,16 +84,22 @@ Figure 1: Un superbe graphique en camembert.
     </item>
     
     <item>
-      <title>New post test</title>
-      <link>/post/new-post-test/</link>
+      <title>New post : Poison dart frog</title>
+      <link>/post/poison-dart-frog/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/post/new-post-test/</guid>
+      <guid>/post/poison-dart-frog/</guid>
       <description>
 
-&lt;h2 id=&#34;actually-testing-the-different-modification-types&#34;&gt;Actually testing the different modification types.&lt;/h2&gt;
+&lt;h2 id=&#34;colorful-but-deadly&#34;&gt;Colorful but deadly&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Testing Markdown&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;General description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Poison dart frog is the name commonly given to a group of frogs belonging to the family &lt;strong&gt;Dendrobatidae&lt;/strong&gt;. They are mostly found in tropical rainforests like in Central and South America but many of them are threatened due to human activity and deforestation. They only measure up to a couple of centimeters in length.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;Dendrobatidae&lt;/strong&gt; family is composed of two sub-families, being the Colostethinae sub-family and the Dendrobatinae sub-family. Dendrobatinae frogs, on the one hand, are brightly colored and their colourful patterns are directly linked to their toxicity, making them aposematic. Aposematism is a characteristic used to warn potential predators of an animal&#39;s toxicity. On the other hand, Colostethinae frogs are cryptically colored, meaning they have a coloration that grants them a sort of camouflage. These frogs are therefore not toxic.&lt;/p&gt;
+
+&lt;p&gt;The poison dart frog gets its name from Amerindian culture where the frog&#39;s toxic secretions were used to coat the tip of blowdarts.&lt;/p&gt;
 </description>
     </item>
     
