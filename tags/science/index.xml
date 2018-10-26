@@ -21,14 +21,5 @@
       <description>Here I describe my project using Markdown formatting...</description>
     </item>
     
-    <item>
-      <title>New project test</title>
-      <link>/project/new-project-test/</link>
-      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/new-project-test/</guid>
-      <description>Here is where i should write about my new project.</description>
-    </item>
-    
   </channel>
 </rss>

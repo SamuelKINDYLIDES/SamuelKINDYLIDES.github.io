@@ -32,12 +32,14 @@ par(mar = c(0, 1, 0, 1)) pie( c(280, 60, 20), c(&amp;#39;Sky&amp;#39;, &amp;#39;
     </item>
     
     <item>
-      <title>New post test</title>
-      <link>/post/new-post-test/</link>
+      <title>New post : Poison dart frog</title>
+      <link>/post/poison-dart-frog/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/post/new-post-test/</guid>
-      <description>Actually testing the different modification types. Testing Markdown</description>
+      <guid>/post/poison-dart-frog/</guid>
+      <description>Colorful but deadly General description
+Poison dart frog is the name commonly given to a group of frogs belonging to the family Dendrobatidae. They are mostly found in tropical rainforests like in Central and South America but many of them are threatened due to human activity and deforestation. They only measure up to a couple of centimeters in length.
+The Dendrobatidae family is composed of two sub-families, being the Colostethinae sub-family and the Dendrobatinae sub-family.</description>
     </item>
     
   </channel>

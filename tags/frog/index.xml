@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Samuel Kindylides</title>
-    <link>/project/</link>
-    <description>Recent content in Projects on Samuel Kindylides</description>
+    <title>Frog on Samuel Kindylides</title>
+    <link>/tags/frog/</link>
+    <description>Recent content in Frog on Samuel Kindylides</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Samuel Kindylides (license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))</copyright>
     <lastBuildDate>Tue, 23 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/frog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -24,12 +24,14 @@ The Dendrobatidae family is composed of two sub-families, being the Colostethina
     </item>
     
     <item>
-      <title>My project</title>
-      <link>/project/example-project/</link>
-      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      <title>New post : Poison dart frog</title>
+      <link>/post/poison-dart-frog/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/project/example-project/</guid>
-      <description>Here I describe my project using Markdown formatting...</description>
+      <guid>/post/poison-dart-frog/</guid>
+      <description>Colorful but deadly General description
+Poison dart frog is the name commonly given to a group of frogs belonging to the family Dendrobatidae. They are mostly found in tropical rainforests like in Central and South America but many of them are threatened due to human activity and deforestation. They only measure up to a couple of centimeters in length.
+The Dendrobatidae family is composed of two sub-families, being the Colostethinae sub-family and the Dendrobatinae sub-family.</description>
     </item>
     
   </channel>
